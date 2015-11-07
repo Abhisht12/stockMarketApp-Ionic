@@ -2,10 +2,10 @@
 <widget id="com.ionicframework.yourappsname237131" version="0.0.1" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
   <name>yourAppsName</name>
   <description>
-        An Ionic Framework and Cordova project.
+        Stock Market App
     </description>
-  <author email="hi@ionicframework" href="http://ionicframework.com/">
-      Ionic Framework Team
+  <author email="olieys@ple.com" href="http://ionicframework.com/">
+      Test Project
     </author>
   <content src="index.html"/>
   <access origin="*"/>
